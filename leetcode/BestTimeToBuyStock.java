@@ -1,4 +1,4 @@
-class Solution {
+class SolBestTimeToBuySTck {
     public int maxProfit(int[] prices) {
         int minPrice = Integer.MAX_VALUE;
         int maxProfit = 0;

@@ -19,7 +19,7 @@ public class ReverseString{
         Scanner sc = new Scanner(System.in);
         ReverseString obj = new ReverseString();
 
-        System.out.print("Enter word : ");
+        System.out.print("Enter word : s");
         String wd = sc.nextLine();
 
         System.out.print("Reversed Word : ");
